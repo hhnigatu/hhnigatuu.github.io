@@ -15,6 +15,8 @@ Outside of research, I like to read books📚, make and drink traditional Ethiop
 ## News
 ### 2026
 
+🎊 Extremely honoured to have received the [Wangari Maathai Impact Award](https://deeplearningindaba.com/blog/2026/07/2026-awards-announcement/) at Deep Learning Indaba this year. 
+
 🎊 I am beyond excited to announce I will be joining the [Artificial Intelligence Accountability Lab](https://aial.ie/) under the supervision of [Dr. Abeba Birhane](https://abebabirhane.com/). I am excited for all the research that is going to come out of this journey. 
 
 📝 Yet another extension of the work on understanding gender bias in MT datasets has been accepted to the [GITT workshop](https://sites.google.com/view/gitt2026/programme?authuser=0)!! In this version, "Yeswa-Stories: A Three-Way Parallel Dataset of Female African Figures in Low-Web Data Languages," we present a three-way parallel dataset exclusively focused on stories of women figures and cultural practices centering women. 
